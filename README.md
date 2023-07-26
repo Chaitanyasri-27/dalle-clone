@@ -1,5 +1,6 @@
 # dalle-clone
-# output
+It creates AI-generated images based on the given input text
+# Output
 ![img1](https://github.com/Chaitanyasri-27/dalle-clone/assets/140045493/c52f6c77-f1b5-4317-9dee-ebe07b74bdad)
 ![img2](https://github.com/Chaitanyasri-27/dalle-clone/assets/140045493/bd5ae117-97c8-491e-bc7e-964b1c4f6ed3)
 ![img3](https://github.com/Chaitanyasri-27/dalle-clone/assets/140045493/f0b67ab3-e8de-4985-a1e7-d32e3a7035c3)
