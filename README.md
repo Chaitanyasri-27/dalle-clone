@@ -2,6 +2,7 @@
 It creates AI-generated images based on the given input text
 
 Features :
+
 •Search functionality
 
 •Downloads generated images to user's device.
